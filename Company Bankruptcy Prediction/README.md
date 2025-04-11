@@ -18,8 +18,3 @@ This project uses machine learning to predict whether a company will go bankrupt
 - Scikit-learn
 - imbalanced-learn
 
-## 🚀 How to Run
-1. Clone this repository
-2. Install dependencies using:
-   ```bash
-   pip install -r requirements.txt
